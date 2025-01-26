@@ -1,5 +1,5 @@
 # Translations for the Avogadro molecular builder.
-# Copyright (C) 2006-2022 The Avogadro Project
+# Copyright (C) 2006-2025 The Avogadro Project
 # This file is distributed under the same license as the Avogadro package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avogadro 1.96.0\n"
 "Report-Msgid-Bugs-To: avogadro-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2022-06-12 03:09+0000\n"
+"POT-Creation-Date: 2025-01-26 02:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1611,11 +1611,11 @@ msgstr ""
 msgid "%L1 Å"
 msgstr ""
 
-#: qtplugins/bondcentrictool/bondcentrictool.h:188
+#: qtplugins/bondcentrictool/bondcentrictool.h:186
 msgid "Bond centric manipulation tool."
 msgstr ""
 
-#: qtplugins/bondcentrictool/bondcentrictool.h:193
+#: qtplugins/bondcentrictool/bondcentrictool.h:191
 msgid ""
 "Tool used to edit molecular geometry by changing bond lengths and angles."
 msgstr ""
@@ -1782,12 +1782,12 @@ msgstr ""
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:196
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, resolutionDoubleSpinBox)
 #: qtplugins/closecontacts/closecontacts.cpp:118
-#: qtplugins/noncovalent/noncovalent.cpp:163 :165 rc.cpp:168 rc.cpp:384
+#: qtplugins/noncovalent/noncovalent.cpp:284 :165 rc.cpp:168 rc.cpp:384
 msgid " Å"
 msgstr ""
 
 #: qtplugins/closecontacts/closecontacts.cpp:123
-#: qtplugins/noncovalent/noncovalent.cpp:169
+#: qtplugins/noncovalent/noncovalent.cpp:298
 msgid "Maximum distance:"
 msgstr ""
 
@@ -2263,7 +2263,9 @@ msgstr ""
 msgid "Tools for crystal-specific editing/analysis."
 msgstr ""
 
-#: qtplugins/crystal/crystalscene.cpp:149 qtplugins/wireframe/wireframe.cpp:89
+#: qtplugins/crystal/crystalscene.cpp:149
+#: qtplugins/noncovalent/noncovalent.cpp:299
+#: qtplugins/wireframe/wireframe.cpp:89
 msgid "Line width:"
 msgstr ""
 
@@ -2945,11 +2947,11 @@ msgstr ""
 msgid "Interact with online databases, query structures etc."
 msgstr ""
 
-#: qtplugins/noncovalent/noncovalent.cpp:154
+#: qtplugins/noncovalent/noncovalent.cpp:275
 msgid " °"
 msgstr ""
 
-#: qtplugins/noncovalent/noncovalent.cpp:168
+#: qtplugins/noncovalent/noncovalent.cpp:297
 msgid "Angle tolerance:"
 msgstr ""
 
@@ -5136,8 +5138,8 @@ msgstr ""
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -5216,8 +5218,8 @@ msgstr ""
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -5715,8 +5717,8 @@ msgstr ""
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:11pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -6638,8 +6640,8 @@ msgstr ""
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'.AppleSystemUIFont'; font-"
 "size:13pt; font-weight:400; font-style:normal;\">\n"
